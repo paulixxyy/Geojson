@@ -1,0 +1,118 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.790908813476555,
+          55.732523148477725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8094482421875,
+          55.68068160461293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77923583984374,
+          55.77773155404886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.673492431640625,
+          55.803210620009835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "бабушка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.821292877197266,
+          55.917852686008175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "marker-name": "концерт 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.760009765625,
+          55.79249986143896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.82112121582031,
+            55.91766029399856
+          ],
+          [
+            37.672119140625,
+            55.801280971180454
+          ],
+          [
+            37.76069641113281,
+            55.791631292435824
+          ],
+          [
+            37.77923583984374,
+            55.77773155404886
+          ],
+          [
+            37.790908813476555,
+            55.73136326949554
+          ],
+          [
+            37.810134887695305,
+            55.67835873246176
+          ]
+        ]
+      }
+    }
+  ]
+}
